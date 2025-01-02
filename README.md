@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Motivation](#motivation)
-- [Key Questions](#key-questions)
+- [Key Questions and Hypotheses](#key-questions-and-hypotheses)
 - [Dataset](#dataset)
   - [Key Attributes](#key-attributes)
 - [Project Plan](#project-plan)
@@ -14,24 +14,37 @@
   - [5. Reporting](#5-reporting)
 - [Future Work](#future-work)
 
+---
+
 ## Overview
-This project analyzes my Steam gaming profile to gain insights into my gaming habits and inform future decisions regarding game purchases and play. By leveraging data from my Steam account, I aim to answer key questions about the games I own, their types, my playtime, achievements, and purchasing trends.
+This project analyzes my Steam gaming profile to address specific questions about unplayed games and purchase trends. The goal is to determine whether there are unplayed games in my library that I might enjoy and to identify trends in my game purchases during Steam sale periods. By leveraging data from my Steam account, I aim to draw actionable insights that could optimize my gaming experience and purchasing behavior.
+
+---
 
 ## Motivation
-As a gamer with a growing library, I often find it challenging to manage my purchases and discover games I might enjoy playing. This project will help me:
-- Identify trends in my gaming preferences.
-- Uncover games I own but have not yet played.
-- Plan future purchases based on my gaming habits and achievements.
-- Organize my budget effectively by understanding the dates when I am most likely to purchase games, such as during sales or seasonal events.
-- Optimize my gaming experience by identifying games I might enjoy but have overlooked.
+With a growing library of games, it's often challenging to identify titles worth exploring and manage purchasing habits effectively. This project will help me:
+- Identify potential hidden gems in my unplayed games library.
+- Understand how Steam sale events influence my purchasing behavior.
+- Use the findings to inform future gaming decisions, such as prioritizing unplayed games or planning purchases during sales.
 
-## Key Questions
-This project aims to answer the following questions:
-1. **Which type of games have I purchased the most?**
-2. **Which type of games have I played the most?**
-3. **How many games have I bought but never played?**
-4. **During which dates did I purchase the most games?**
-5. **Which type of games have I collected the most achievements in?**
+---
+
+## Key Questions and Hypotheses
+
+### **Questions**
+1. **Are there unplayed games in my library that I might enjoy playing?**
+2. **Is there a correlation between Steam sale events and the number of games purchased?**
+
+### **Hypotheses**
+1. **Unplayed Games Hypothesis**:  
+   *There are unplayed games in my library that align with my gaming preferences and have high ratings, making them worth playing.*  
+   This hypothesis will be tested by combining genre-based preferences with game ratings to rank unplayed games.
+
+2. **Steam Sale Hypothesis**:  
+   *The number of games purchased significantly increases during Steam sale periods, suggesting a strong correlation between sale events and purchasing behavior.*  
+   This hypothesis will be tested by comparing purchase trends during known Steam sale periods with non-sale periods.
+
+---
 
 ## Dataset
 The data will be sourced from my Steam profile using:
@@ -46,6 +59,8 @@ The data will be sourced from my Steam profile using:
 - **Purchase Date**: The date when the game was purchased.
 - **Purchase Cost**: The cost of each game (from payment history).
 
+---
+
 ## Project Plan
 
 ### 1. Data Collection
@@ -54,21 +69,31 @@ The data will be sourced from my Steam profile using:
 
 ### 2. Data Cleaning and Preprocessing
 - Organize and clean the data to handle missing or duplicate entries.
-- Categorize games by genre.
+- Categorize games by genre and align genres with ratings from external sources (e.g., IGDB).
 
 ### 3. Exploratory Data Analysis (EDA)
-- Analyze the dataset to answer the outlined questions.
-- Generate visualizations to illustrate trends (e.g., bar charts for game genres, heatmaps for purchase dates).
+- Analyze the dataset to answer the outlined questions:
+  - Use game ratings and genre preferences to rank unplayed games.
+  - Compare the number of games purchased during Steam sale periods with non-sale periods.
+- Generate visualizations to illustrate findings (e.g., bar charts, heatmaps).
 
 ### 4. Findings and Insights
-- Summarize insights about my gaming preferences and behavior.
-- Provide actionable recommendations for future purchases and gameplay.
+- Summarize insights about:
+  - Unplayed games most likely to align with preferences.
+  - Seasonal patterns and the influence of Steam sale events on game purchases.
+- Provide actionable recommendations for future gaming decisions.
 
 ### 5. Reporting
-- Create a detailed report and update the GitHub repository with:
+- Create a detailed report that includes:
   - Code for data collection, cleaning, and analysis.
   - Visualizations and findings.
   - Project documentation, including this README.
 
+---
+
 ## Future Work
-- **Future Work**: Extend the project by building a recommendation system for identifying games I might enjoy based on my gaming preferences.
+- Extend the project by developing a recommendation system for unplayed games.
+- Explore trends in spending patterns and discounts during sales.
+- Incorporate additional data sources, such as user reviews, to refine game rankings.
+
+---
