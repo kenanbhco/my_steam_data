@@ -2,8 +2,8 @@ import requests
 import json
 
 # Replace with your Steam API key and Steam ID
-STEAM_API_KEY = "F69CD1166E0258A8BF7210D49FD68BA1"
-STEAM_ID = "76561198282724067"
+STEAM_API_KEY = "YOUR_API"
+STEAM_ID = "YOUR_ID"
 
 # URLs for API endpoints
 OWNED_GAMES_URL = "http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/"
