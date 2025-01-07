@@ -1,0 +1,324 @@
+{
+    "Shooter": [
+        {
+            "name": "Half-Life",
+            "rating": 96.0
+        },
+        {
+            "name": "Half-Life 2",
+            "rating": 96.0
+        },
+        {
+            "name": "Portal",
+            "rating": 95.0
+        },
+        {
+            "name": "Portal 2",
+            "rating": 95.0
+        },
+        {
+            "name": "Team Fortress Classic",
+            "rating": 89.0
+        }
+    ],
+    "Platform": [
+        {
+            "name": "Portal",
+            "rating": 95.0
+        },
+        {
+            "name": "Portal 2",
+            "rating": 95.0
+        },
+        {
+            "name": "Ori and the Will of the Wisps",
+            "rating": 90.75
+        },
+        {
+            "name": "Black Mesa",
+            "rating": 87.67
+        },
+        {
+            "name": "Ori and the Blind Forest: Definitive Edition",
+            "rating": 86.29
+        }
+    ],
+    "Puzzle": [
+        {
+            "name": "Portal",
+            "rating": 95.0
+        },
+        {
+            "name": "Portal 2",
+            "rating": 95.0
+        },
+        {
+            "name": "Visage",
+            "rating": 87.0
+        },
+        {
+            "name": "Inscryption",
+            "rating": 82.25
+        },
+        {
+            "name": "Little Nightmares II",
+            "rating": 82.23
+        }
+    ],
+    "Role-playing (RPG)": [
+        {
+            "name": "The Witcher 3: Wild Hunt",
+            "rating": 93.0
+        },
+        {
+            "name": "Path of Exile",
+            "rating": 89.0
+        },
+        {
+            "name": "Disco Elysium",
+            "rating": 89
+        },
+        {
+            "name": "Cult of the Lamb",
+            "rating": 88.83
+        },
+        {
+            "name": "PlanetSide 2",
+            "rating": 82.57
+        }
+    ],
+    "Simulator": [
+        {
+            "name": "Offworld Trading Company",
+            "rating": 89.33
+        },
+        {
+            "name": "Cult of the Lamb",
+            "rating": 88.83
+        },
+        {
+            "name": "Visage",
+            "rating": 87.0
+        },
+        {
+            "name": "Frostpunk",
+            "rating": 86.22
+        },
+        {
+            "name": "Assetto Corsa",
+            "rating": 86.0
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "Offworld Trading Company",
+            "rating": 89.33
+        },
+        {
+            "name": "Total War: SHOGUN 2",
+            "rating": 89
+        },
+        {
+            "name": "Cult of the Lamb",
+            "rating": 88.83
+        },
+        {
+            "name": "Frostpunk",
+            "rating": 86.22
+        },
+        {
+            "name": "Tabletop Simulator",
+            "rating": 85.0
+        }
+    ],
+    "Adventure": [
+        {
+            "name": "The Witcher 3: Wild Hunt",
+            "rating": 93.0
+        },
+        {
+            "name": "Batman: Arkham Asylum GOTY Edition",
+            "rating": 91
+        },
+        {
+            "name": "Batman: Arkham City GOTY",
+            "rating": 91
+        },
+        {
+            "name": "Ori and the Will of the Wisps",
+            "rating": 90.75
+        },
+        {
+            "name": "Path of Exile",
+            "rating": 89.0
+        }
+    ],
+    "Indie": [
+        {
+            "name": "Offworld Trading Company",
+            "rating": 89.33
+        },
+        {
+            "name": "Cult of the Lamb",
+            "rating": 88.83
+        },
+        {
+            "name": "Black Mesa",
+            "rating": 87.67
+        },
+        {
+            "name": "INSIDE",
+            "rating": 87.0
+        },
+        {
+            "name": "Visage",
+            "rating": 87.0
+        }
+    ],
+    "Tactical": [
+        {
+            "name": "PlanetSide 2",
+            "rating": 82.57
+        },
+        {
+            "name": "Ready or Not",
+            "rating": 80
+        },
+        {
+            "name": "S.K.I.L.L. - Special Force 2",
+            "rating": 70.0
+        },
+        {
+            "name": "Heroes & Generals",
+            "rating": 70.0
+        }
+    ],
+    "Arcade": [
+        {
+            "name": "PlanetSide 2",
+            "rating": 82.57
+        },
+        {
+            "name": "Kingdom: New Lands",
+            "rating": 75
+        }
+    ],
+    "Hack and slash/Beat 'em up": [
+        {
+            "name": "Path of Exile",
+            "rating": 89.0
+        },
+        {
+            "name": "Cult of the Lamb",
+            "rating": 88.83
+        },
+        {
+            "name": "Batman\u2122: Arkham Knight",
+            "rating": 85
+        },
+        {
+            "name": "Black Desert",
+            "rating": 75
+        }
+    ],
+    "Racing": [
+        {
+            "name": "Assetto Corsa",
+            "rating": 86.0
+        },
+        {
+            "name": "DiRT Rally",
+            "rating": 84.77
+        },
+        {
+            "name": "Need for Speed\u2122 Heat ",
+            "rating": 78
+        },
+        {
+            "name": "Kabounce",
+            "rating": 75
+        }
+    ],
+    "Sport": [
+        {
+            "name": "Assetto Corsa",
+            "rating": 86.0
+        },
+        {
+            "name": "DiRT Rally",
+            "rating": 84.77
+        },
+        {
+            "name": "TEKKEN 7",
+            "rating": 84.0
+        },
+        {
+            "name": "Kabounce",
+            "rating": 75
+        },
+        {
+            "name": "S.K.I.L.L. - Special Force 2",
+            "rating": 70.0
+        }
+    ],
+    "Visual Novel": [
+        {
+            "name": "INSIDE",
+            "rating": 87.0
+        },
+        {
+            "name": "The Murder of Sonic the Hedgehog",
+            "rating": 75
+        }
+    ],
+    "Fighting": [
+        {
+            "name": "TEKKEN 7",
+            "rating": 84.0
+        },
+        {
+            "name": "MultiVersus",
+            "rating": 75
+        }
+    ],
+    "Real Time Strategy (RTS)": [
+        {
+            "name": "Offworld Trading Company",
+            "rating": 89.33
+        },
+        {
+            "name": "Company of Heroes 2",
+            "rating": 77.73
+        },
+        {
+            "name": "Diplomacy is Not an Option",
+            "rating": 75
+        },
+        {
+            "name": "Minion Masters",
+            "rating": 70
+        }
+    ],
+    "Turn-based strategy (TBS)": [
+        {
+            "name": "Minion Masters",
+            "rating": 70
+        }
+    ],
+    "Card & Board Game": [
+        {
+            "name": "Inscryption",
+            "rating": 82.25
+        },
+        {
+            "name": "Minion Masters",
+            "rating": 70
+        }
+    ],
+    "Point-and-click": [
+        {
+            "name": "The Murder of Sonic the Hedgehog",
+            "rating": 75
+        }
+    ]
+}

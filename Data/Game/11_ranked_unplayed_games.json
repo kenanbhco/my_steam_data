@@ -1,0 +1,843 @@
+[
+    {
+        "name": "Half-Life",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 96.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 57.66221486094667,
+        "normalized_score": 100.0
+    },
+    {
+        "name": "Half-Life 2",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 96.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 57.66221486094667,
+        "normalized_score": 100.0
+    },
+    {
+        "name": "Portal",
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Puzzle"
+        ],
+        "rating": 95.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 57.062214860946675,
+        "normalized_score": 97.15628415316704
+    },
+    {
+        "name": "Portal 2",
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Puzzle"
+        ],
+        "rating": 95.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 57.062214860946675,
+        "normalized_score": 97.15628415316704
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 93.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 55.865060363206915,
+        "normalized_score": 91.48233879261714
+    },
+    {
+        "name": "Batman: Arkham Asylum GOTY Edition",
+        "genres": [
+            "Adventure"
+        ],
+        "rating": 91,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 54.66506036320692,
+        "normalized_score": 85.79490709895119
+    },
+    {
+        "name": "Batman: Arkham City GOTY",
+        "genres": [
+            "Adventure"
+        ],
+        "rating": 91,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 54.66506036320692,
+        "normalized_score": 85.79490709895119
+    },
+    {
+        "name": "Ori and the Will of the Wisps",
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "rating": 90.75,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 54.51506036320691,
+        "normalized_score": 85.08397813724292
+    },
+    {
+        "name": "Offworld Trading Company",
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "rating": 89.33,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 53.64690429847004,
+        "normalized_score": 80.96932953921558
+    },
+    {
+        "name": "Path of Exile",
+        "genres": [
+            "Role-playing (RPG)",
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ],
+        "rating": 89.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 53.465060363206916,
+        "normalized_score": 80.1074754052852
+    },
+    {
+        "name": "Disco Elysium",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 89,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 53.465060363206916,
+        "normalized_score": 80.1074754052852
+    },
+    {
+        "name": "Team Fortress Classic",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 89.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 53.46221486094667,
+        "normalized_score": 80.09398907216912
+    },
+    {
+        "name": "Total War: SHOGUN 2",
+        "genres": [
+            "Strategy"
+        ],
+        "rating": 89,
+        "match_score": 0.09860220874043643,
+        "weighted_score": 53.439440883496175,
+        "normalized_score": 79.98605120455012
+    },
+    {
+        "name": "Cult of the Lamb",
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Strategy",
+            "Hack and slash/Beat 'em up",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 88.83,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 53.36306036320691,
+        "normalized_score": 79.62404371132358
+    },
+    {
+        "name": "Battlefield 1 \u2122",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 88,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 52.86221486094667,
+        "normalized_score": 77.25027322533613
+    },
+    {
+        "name": "Black Mesa",
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 87.67,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 52.667060363206915,
+        "normalized_score": 76.32533332899733
+    },
+    {
+        "name": "INSIDE",
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Visual Novel"
+        ],
+        "rating": 87.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 52.26506036320691,
+        "normalized_score": 74.42004371161923
+    },
+    {
+        "name": "Visage",
+        "genres": [
+            "Puzzle",
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 87.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 52.26506036320691,
+        "normalized_score": 74.42004371161923
+    },
+    {
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "rating": 86.29,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 51.83906036320692,
+        "normalized_score": 72.40100546036783
+    },
+    {
+        "name": "Frostpunk",
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "rating": 86.22,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 51.78090429847004,
+        "normalized_score": 72.125373255565
+    },
+    {
+        "name": "Assetto Corsa",
+        "genres": [
+            "Racing",
+            "Simulator",
+            "Sport",
+            "Indie"
+        ],
+        "rating": 86.0,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 51.64890429847004,
+        "normalized_score": 71.49975576926174
+    },
+    {
+        "name": "Yuppie Psycho",
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 85.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 51.06506036320692,
+        "normalized_score": 68.73261201795327
+    },
+    {
+        "name": "Batman\u2122: Arkham Knight",
+        "genres": [
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ],
+        "rating": 85,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 51.06506036320692,
+        "normalized_score": 68.73261201795327
+    },
+    {
+        "name": "Half-Life 2: Deathmatch",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 85.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 51.062214860946675,
+        "normalized_score": 68.71912568483718
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 85.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 51.062214860946675,
+        "normalized_score": 68.71912568483718
+    },
+    {
+        "name": "Overwatch\u00ae 2",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 85,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 51.062214860946675,
+        "normalized_score": 68.71912568483718
+    },
+    {
+        "name": "Tabletop Simulator",
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "rating": 85.0,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 51.04890429847004,
+        "normalized_score": 68.65603992242875
+    },
+    {
+        "name": "DiRT Rally",
+        "genres": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "rating": 84.77,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 50.91090429847004,
+        "normalized_score": 68.00198527765714
+    },
+    {
+        "name": "TEKKEN 7",
+        "genres": [
+            "Fighting",
+            "Sport"
+        ],
+        "rating": 84.0,
+        "match_score": 0.016542804756484158,
+        "weighted_score": 50.40661712190259,
+        "normalized_score": 65.6119028853913
+    },
+    {
+        "name": "PlanetSide 2",
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Tactical",
+            "Arcade"
+        ],
+        "rating": 82.57,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 49.60421486094667,
+        "normalized_score": 61.808896177033
+    },
+    {
+        "name": "Destiny 2",
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 82.44,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 49.529060363206916,
+        "normalized_score": 61.45269945006083
+    },
+    {
+        "name": "Inscryption",
+        "genres": [
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "Indie",
+            "Card & Board Game"
+        ],
+        "rating": 82.25,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 49.41506036320692,
+        "normalized_score": 60.912393439162564
+    },
+    {
+        "name": "Little Nightmares II",
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Adventure"
+        ],
+        "rating": 82.23,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 49.40306036320692,
+        "normalized_score": 60.855519122225914
+    },
+    {
+        "name": "Sunset Overdrive",
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Adventure"
+        ],
+        "rating": 81.75,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 49.115060363206915,
+        "normalized_score": 59.49053551574606
+    },
+    {
+        "name": "GRIS",
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 81.25,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 48.81506036320692,
+        "normalized_score": 58.06867759232958
+    },
+    {
+        "name": "Terraria",
+        "genres": [
+            "Platform",
+            "Role-playing (RPG)",
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 81.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 48.66506036320692,
+        "normalized_score": 57.35774863062133
+    },
+    {
+        "name": "Slime Rancher",
+        "genres": [
+            "Shooter",
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 80.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 48.06506036320692,
+        "normalized_score": 54.514032783788345
+    },
+    {
+        "name": "Half-Life: Blue Shift",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 80.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 48.062214860946675,
+        "normalized_score": 54.50054645067226
+    },
+    {
+        "name": "Half-Life Deathmatch: Source",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 80.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 48.062214860946675,
+        "normalized_score": 54.50054645067226
+    },
+    {
+        "name": "War Thunder",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 80.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 48.062214860946675,
+        "normalized_score": 54.50054645067226
+    },
+    {
+        "name": "Borderlands: The Pre-Sequel",
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)"
+        ],
+        "rating": 80.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 48.062214860946675,
+        "normalized_score": 54.50054645067226
+    },
+    {
+        "name": "Ready or Not",
+        "genres": [
+            "Shooter",
+            "Simulator",
+            "Tactical",
+            "Indie"
+        ],
+        "rating": 80,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 48.062214860946675,
+        "normalized_score": 54.50054645067226
+    },
+    {
+        "name": "Quake Champions",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 78,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 46.86221486094667,
+        "normalized_score": 48.813114757006275
+    },
+    {
+        "name": "Need for Speed\u2122 Heat ",
+        "genres": [
+            "Racing"
+        ],
+        "rating": 78,
+        "match_score": 0.007309843520275778,
+        "weighted_score": 46.80292393740811,
+        "normalized_score": 48.53210385893966
+    },
+    {
+        "name": "Company of Heroes 2",
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Strategy"
+        ],
+        "rating": 77.73,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 46.68690429847004,
+        "normalized_score": 47.982225715952936
+    },
+    {
+        "name": "Outlast 2",
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 77.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 46.26506036320691,
+        "normalized_score": 45.98288524328937
+    },
+    {
+        "name": "Wolfenstein: The Old Blood ",
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ],
+        "rating": 76.4,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 45.90506036320692,
+        "normalized_score": 44.276655735189614
+    },
+    {
+        "name": "Explodemon",
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 75.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 45.06506036320692,
+        "normalized_score": 40.29545354962342
+    },
+    {
+        "name": "ARK: Survival Of The Fittest",
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 75.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 45.06506036320692,
+        "normalized_score": 40.29545354962342
+    },
+    {
+        "name": "Kingdom: New Lands",
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie",
+            "Arcade"
+        ],
+        "rating": 75,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 45.06506036320692,
+        "normalized_score": 40.29545354962342
+    },
+    {
+        "name": "The LEGO\u00ae NINJAGO\u00ae Movie Video Game",
+        "genres": [
+            "Adventure"
+        ],
+        "rating": 75,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 45.06506036320692,
+        "normalized_score": 40.29545354962342
+    },
+    {
+        "name": "Black Desert",
+        "genres": [
+            "Role-playing (RPG)",
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ],
+        "rating": 75,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 45.06506036320692,
+        "normalized_score": 40.29545354962342
+    },
+    {
+        "name": "Killing Floor Mod: Defence Alliance 2",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 75.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 45.062214860946675,
+        "normalized_score": 40.28196721650733
+    },
+    {
+        "name": "PlanetSide 2 - Test",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 75.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 45.062214860946675,
+        "normalized_score": 40.28196721650733
+    },
+    {
+        "name": "Paladins - Public Test",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 75.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 45.062214860946675,
+        "normalized_score": 40.28196721650733
+    },
+    {
+        "name": "Diplomacy is Not an Option",
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "rating": 75,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 45.04890429847004,
+        "normalized_score": 40.21888145409889
+    },
+    {
+        "name": "The Murder of Sonic the Hedgehog",
+        "genres": [
+            "Point-and-click",
+            "Simulator",
+            "Indie",
+            "Visual Novel"
+        ],
+        "rating": 75,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 45.04890429847004,
+        "normalized_score": 40.21888145409889
+    },
+    {
+        "name": "Odysseus Kosmos and his Robot Quest - Episode 1",
+        "genres": [
+            "Indie"
+        ],
+        "rating": 75,
+        "match_score": 0.1044593212650535,
+        "weighted_score": 45.04178372850602,
+        "normalized_score": 40.18513332469027
+    },
+    {
+        "name": "Kabounce",
+        "genres": [
+            "Racing",
+            "Sport",
+            "Indie"
+        ],
+        "rating": 75,
+        "match_score": 0.1044593212650535,
+        "weighted_score": 45.04178372850602,
+        "normalized_score": 40.18513332469027
+    },
+    {
+        "name": "MultiVersus",
+        "genres": [
+            "Fighting"
+        ],
+        "rating": 75,
+        "match_score": 0.016542804756484158,
+        "weighted_score": 45.00661712190259,
+        "normalized_score": 40.01846026389443
+    },
+    {
+        "name": "Mafia: Definitive Edition",
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ],
+        "rating": 74.73,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 44.90306036320692,
+        "normalized_score": 39.52765027097851
+    },
+    {
+        "name": "S.K.I.L.L. - Special Force 2",
+        "genres": [
+            "Shooter",
+            "Sport",
+            "Strategy",
+            "Tactical",
+            "Adventure"
+        ],
+        "rating": 70.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 42.06506036320692,
+        "normalized_score": 26.07687431545849
+    },
+    {
+        "name": "Magicka 2: Spell Balance Beta",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 70.0,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 42.06506036320692,
+        "normalized_score": 26.07687431545849
+    },
+    {
+        "name": "Minion Masters",
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Role-playing (RPG)",
+            "Strategy",
+            "Turn-based strategy (TBS)",
+            "Adventure",
+            "Indie",
+            "Card & Board Game"
+        ],
+        "rating": 70,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 42.06506036320692,
+        "normalized_score": 26.07687431545849
+    },
+    {
+        "name": "Half-Life: Opposing Force",
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Puzzle"
+        ],
+        "rating": 70.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 42.062214860946675,
+        "normalized_score": 26.063387982342405
+    },
+    {
+        "name": "Heroes & Generals",
+        "genres": [
+            "Shooter",
+            "Strategy",
+            "Tactical",
+            "Indie"
+        ],
+        "rating": 70.0,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 42.062214860946675,
+        "normalized_score": 26.063387982342405
+    },
+    {
+        "name": "Realm Royale - Test Server",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 70,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 42.062214860946675,
+        "normalized_score": 26.063387982342405
+    },
+    {
+        "name": "Resident Evil Re:Verse",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 70,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 42.062214860946675,
+        "normalized_score": 26.063387982342405
+    },
+    {
+        "name": "Mr. Prepper: Prologue",
+        "genres": [
+            "Simulator"
+        ],
+        "rating": 70,
+        "match_score": 0.12226074617510099,
+        "weighted_score": 42.04890429847004,
+        "normalized_score": 26.000302219933964
+    },
+    {
+        "name": "The Classrooms",
+        "genres": [
+            "Indie"
+        ],
+        "rating": 70,
+        "match_score": 0.1044593212650535,
+        "weighted_score": 42.04178372850602,
+        "normalized_score": 25.966554090525342
+    },
+    {
+        "name": "DON'T SCREAM",
+        "genres": [
+            "Indie"
+        ],
+        "rating": 70,
+        "match_score": 0.1044593212650535,
+        "weighted_score": 42.04178372850602,
+        "normalized_score": 25.966554090525342
+    },
+    {
+        "name": "Splitgate",
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 65,
+        "match_score": 0.1555371523666794,
+        "weighted_score": 39.062214860946675,
+        "normalized_score": 11.844808748177474
+    },
+    {
+        "name": "Magicka 2",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 60.83,
+        "match_score": 0.16265090801729742,
+        "weighted_score": 36.563060363206915,
+        "normalized_score": 0.0
+    }
+]

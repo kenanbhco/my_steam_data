@@ -1,0 +1,301 @@
+{
+    "Shooter": {
+        "total_playtime": 746.6999999999999,
+        "top_games": [
+            {
+                "name": "Counter-Strike 2",
+                "playtime": 485.6333333333333
+            },
+            {
+                "name": "ARK: Survival Evolved",
+                "playtime": 38.11666666666667
+            },
+            {
+                "name": "Realm Royale Reforged",
+                "playtime": 25.85
+            }
+        ]
+    },
+    "Platform": {
+        "total_playtime": 92.10000000000001,
+        "top_games": [
+            {
+                "name": "Brawlhalla",
+                "playtime": 14.666666666666666
+            },
+            {
+                "name": "ROUNDS",
+                "playtime": 13.4
+            },
+            {
+                "name": "10 Second Ninja X",
+                "playtime": 12.266666666666667
+            }
+        ]
+    },
+    "Puzzle": {
+        "total_playtime": 113.16666666666666,
+        "top_games": [
+            {
+                "name": "Castle Crashers",
+                "playtime": 29.616666666666667
+            },
+            {
+                "name": "10 Second Ninja X",
+                "playtime": 12.266666666666667
+            },
+            {
+                "name": "Half-Life: Source",
+                "playtime": 9.2
+            }
+        ]
+    },
+    "Adventure": {
+        "total_playtime": 582.1833333333334,
+        "top_games": [
+            {
+                "name": "Creativerse",
+                "playtime": 47.68333333333333
+            },
+            {
+                "name": "God of War",
+                "playtime": 39.083333333333336
+            },
+            {
+                "name": "ARK: Survival Evolved",
+                "playtime": 38.11666666666667
+            }
+        ]
+    },
+    "Simulator": {
+        "total_playtime": 642.2833333333333,
+        "top_games": [
+            {
+                "name": "Sid Meier's Civilization V",
+                "playtime": 171.0
+            },
+            {
+                "name": "Hearts of Iron IV",
+                "playtime": 147.83333333333334
+            },
+            {
+                "name": "Europa Universalis IV",
+                "playtime": 110.28333333333333
+            }
+        ]
+    },
+    "Indie": {
+        "total_playtime": 412.51666666666677,
+        "top_games": [
+            {
+                "name": "Creativerse",
+                "playtime": 47.68333333333333
+            },
+            {
+                "name": "ARK: Survival Evolved",
+                "playtime": 38.11666666666667
+            },
+            {
+                "name": "The Forest",
+                "playtime": 30.433333333333334
+            }
+        ]
+    },
+    "Strategy": {
+        "total_playtime": 545.2166666666667,
+        "top_games": [
+            {
+                "name": "Sid Meier's Civilization V",
+                "playtime": 171.0
+            },
+            {
+                "name": "Hearts of Iron IV",
+                "playtime": 147.83333333333334
+            },
+            {
+                "name": "Europa Universalis IV",
+                "playtime": 110.28333333333333
+            }
+        ]
+    },
+    "Turn-based strategy (TBS)": {
+        "total_playtime": 189.5,
+        "top_games": [
+            {
+                "name": "Sid Meier's Civilization V",
+                "playtime": 171.0
+            },
+            {
+                "name": "Sid Meier's Civilization VI",
+                "playtime": 18.5
+            }
+        ]
+    },
+    "Role-playing (RPG)": {
+        "total_playtime": 243.10000000000005,
+        "top_games": [
+            {
+                "name": "Creativerse",
+                "playtime": 47.68333333333333
+            },
+            {
+                "name": "God of War",
+                "playtime": 39.083333333333336
+            },
+            {
+                "name": "ARK: Survival Evolved",
+                "playtime": 38.11666666666667
+            }
+        ]
+    },
+    "Real Time Strategy (RTS)": {
+        "total_playtime": 297.6333333333333,
+        "top_games": [
+            {
+                "name": "Hearts of Iron IV",
+                "playtime": 147.83333333333334
+            },
+            {
+                "name": "Europa Universalis IV",
+                "playtime": 110.28333333333333
+            },
+            {
+                "name": "Age of Empires III: Definitive Edition",
+                "playtime": 14.016666666666667
+            }
+        ]
+    },
+    "Point-and-click": {
+        "total_playtime": 8.666666666666666,
+        "top_games": [
+            {
+                "name": "Deponia",
+                "playtime": 8.666666666666666
+            }
+        ]
+    },
+    "Hack and slash/Beat 'em up": {
+        "total_playtime": 76.58333333333334,
+        "top_games": [
+            {
+                "name": "God of War",
+                "playtime": 39.083333333333336
+            },
+            {
+                "name": "Castle Crashers",
+                "playtime": 29.616666666666667
+            },
+            {
+                "name": "Wizard of Legend",
+                "playtime": 6.016666666666667
+            }
+        ]
+    },
+    "Tactical": {
+        "total_playtime": 502.93333333333334,
+        "top_games": [
+            {
+                "name": "Counter-Strike 2",
+                "playtime": 485.6333333333333
+            },
+            {
+                "name": "Tom Clancy's Rainbow Six Siege",
+                "playtime": 5.233333333333333
+            },
+            {
+                "name": "Sniper Ghost Warrior 2",
+                "playtime": 4.133333333333334
+            }
+        ]
+    },
+    "Fighting": {
+        "total_playtime": 53.39999999999999,
+        "top_games": [
+            {
+                "name": "Stick Fight: The Game",
+                "playtime": 17.633333333333333
+            },
+            {
+                "name": "Brawlhalla",
+                "playtime": 14.666666666666666
+            },
+            {
+                "name": "10 Second Ninja X",
+                "playtime": 12.266666666666667
+            }
+        ]
+    },
+    "Arcade": {
+        "total_playtime": 75.76666666666668,
+        "top_games": [
+            {
+                "name": "Kingdom Two Crowns",
+                "playtime": 15.616666666666667
+            },
+            {
+                "name": "Brawlhalla",
+                "playtime": 14.666666666666666
+            },
+            {
+                "name": "10 Second Ninja X",
+                "playtime": 12.266666666666667
+            }
+        ]
+    },
+    "Racing": {
+        "total_playtime": 17.566666666666666,
+        "top_games": [
+            {
+                "name": "Tower Unite",
+                "playtime": 11.466666666666667
+            },
+            {
+                "name": "GRID 2",
+                "playtime": 6.1
+            }
+        ]
+    },
+    "Sport": {
+        "total_playtime": 19.2,
+        "top_games": [
+            {
+                "name": "Tower Unite",
+                "playtime": 11.466666666666667
+            },
+            {
+                "name": "GRID 2",
+                "playtime": 6.1
+            },
+            {
+                "name": "Biped",
+                "playtime": 1.0
+            }
+        ]
+    },
+    "Card & Board Game": {
+        "total_playtime": 33.96666666666667,
+        "top_games": [
+            {
+                "name": "RISK: Global Domination",
+                "playtime": 21.333333333333332
+            },
+            {
+                "name": "Tower Unite",
+                "playtime": 11.466666666666667
+            },
+            {
+                "name": "Pummel Party",
+                "playtime": 1.1666666666666667
+            }
+        ]
+    },
+    "Visual Novel": {
+        "total_playtime": 2.433333333333333,
+        "top_games": [
+            {
+                "name": "KinitoPET",
+                "playtime": 2.433333333333333
+            }
+        ]
+    }
+}

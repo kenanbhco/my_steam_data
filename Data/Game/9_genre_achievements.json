@@ -1,0 +1,21 @@
+{
+    "Shooter": 315,
+    "Platform": 65,
+    "Puzzle": 129,
+    "Adventure": 547,
+    "Simulator": 187,
+    "Indie": 309,
+    "Strategy": 121,
+    "Turn-based strategy (TBS)": 42,
+    "Role-playing (RPG)": 99,
+    "Real Time Strategy (RTS)": 15,
+    "Point-and-click": 11,
+    "Hack and slash/Beat 'em up": 38,
+    "Tactical": 17,
+    "Fighting": 62,
+    "Arcade": 93,
+    "Racing": 34,
+    "Sport": 38,
+    "Card & Board Game": 55,
+    "Visual Novel": 8
+}

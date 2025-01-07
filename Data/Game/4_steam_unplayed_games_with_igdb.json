@@ -1,0 +1,770 @@
+[
+    {
+        "name": "Team Fortress Classic",
+        "playtime_hours": 0.0,
+        "app_id": 20,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 89.0
+    },
+    {
+        "name": "Half-Life: Opposing Force",
+        "playtime_hours": 0.0,
+        "app_id": 50,
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Puzzle"
+        ],
+        "rating": 70.0
+    },
+    {
+        "name": "Half-Life",
+        "playtime_hours": 0.0,
+        "app_id": 70,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 96.0
+    },
+    {
+        "name": "Half-Life: Blue Shift",
+        "playtime_hours": 0.0,
+        "app_id": 130,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 80.0
+    },
+    {
+        "name": "Half-Life 2",
+        "playtime_hours": 0.0,
+        "app_id": 220,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 96.0
+    },
+    {
+        "name": "Half-Life 2: Deathmatch",
+        "playtime_hours": 0.0,
+        "app_id": 320,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 85.0
+    },
+    {
+        "name": "Half-Life Deathmatch: Source",
+        "playtime_hours": 0.0,
+        "app_id": 360,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 80.0
+    },
+    {
+        "name": "Portal",
+        "playtime_hours": 0.0,
+        "app_id": 400,
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Puzzle"
+        ],
+        "rating": 95.0
+    },
+    {
+        "name": "Killing Floor Mod: Defence Alliance 2",
+        "playtime_hours": 0.0,
+        "app_id": 35420,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 75.0
+    },
+    {
+        "name": "Portal 2",
+        "playtime_hours": 0.0,
+        "app_id": 620,
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Puzzle"
+        ],
+        "rating": 95.0
+    },
+    {
+        "name": "Terraria",
+        "playtime_hours": 0.0,
+        "app_id": 105600,
+        "genres": [
+            "Platform",
+            "Role-playing (RPG)",
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 81.0
+    },
+    {
+        "name": "PlanetSide 2",
+        "playtime_hours": 0.0,
+        "app_id": 218230,
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Tactical",
+            "Arcade"
+        ],
+        "rating": 82.57
+    },
+    {
+        "name": "PlanetSide 2 - Test",
+        "playtime_hours": 0.0,
+        "app_id": 1083500,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 75.0
+    },
+    {
+        "name": "War Thunder",
+        "playtime_hours": 0.0,
+        "app_id": 236390,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 80.0
+    },
+    {
+        "name": "Path of Exile",
+        "playtime_hours": 0.0,
+        "app_id": 238960,
+        "genres": [
+            "Role-playing (RPG)",
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ],
+        "rating": 89.0
+    },
+    {
+        "name": "Assetto Corsa",
+        "playtime_hours": 0.0,
+        "app_id": 244210,
+        "genres": [
+            "Racing",
+            "Simulator",
+            "Sport",
+            "Indie"
+        ],
+        "rating": 86.0
+    },
+    {
+        "name": "Tabletop Simulator",
+        "playtime_hours": 0.0,
+        "app_id": 286160,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "rating": 85.0
+    },
+    {
+        "name": "S.K.I.L.L. - Special Force 2",
+        "playtime_hours": 0.0,
+        "app_id": 286940,
+        "genres": [
+            "Shooter",
+            "Sport",
+            "Strategy",
+            "Tactical",
+            "Adventure"
+        ],
+        "rating": 70.0
+    },
+    {
+        "name": "INSIDE",
+        "playtime_hours": 0.0,
+        "app_id": 304430,
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Visual Novel"
+        ],
+        "rating": 87.0
+    },
+    {
+        "name": "Explodemon",
+        "playtime_hours": 0.0,
+        "app_id": 281820,
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 75.0
+    },
+    {
+        "name": "DiRT Rally",
+        "playtime_hours": 0.0,
+        "app_id": 310560,
+        "genres": [
+            "Racing",
+            "Simulator",
+            "Sport"
+        ],
+        "rating": 84.77
+    },
+    {
+        "name": "Heroes & Generals",
+        "playtime_hours": 0.0,
+        "app_id": 227940,
+        "genres": [
+            "Shooter",
+            "Strategy",
+            "Tactical",
+            "Indie"
+        ],
+        "rating": 70.0
+    },
+    {
+        "name": "Frostpunk",
+        "playtime_hours": 0.0,
+        "app_id": 323190,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "rating": 86.22
+    },
+    {
+        "name": "Borderlands: The Pre-Sequel",
+        "playtime_hours": 0.0,
+        "app_id": 261640,
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)"
+        ],
+        "rating": 80.0
+    },
+    {
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_hours": 0.0,
+        "app_id": 407530,
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 75.0
+    },
+    {
+        "name": "Wolfenstein: The Old Blood ",
+        "playtime_hours": 0.0,
+        "app_id": 350080,
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ],
+        "rating": 76.4
+    },
+    {
+        "name": "Black Mesa",
+        "playtime_hours": 0.0,
+        "app_id": 362890,
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 87.67
+    },
+    {
+        "name": "Magicka 2",
+        "playtime_hours": 0.0,
+        "app_id": 238370,
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 60.83
+    },
+    {
+        "name": "Magicka 2: Spell Balance Beta",
+        "playtime_hours": 0.0,
+        "app_id": 397080,
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 70.0
+    },
+    {
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "playtime_hours": 0.0,
+        "app_id": 387290,
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "rating": 86.29
+    },
+    {
+        "name": "TEKKEN 7",
+        "playtime_hours": 0.0,
+        "app_id": 389730,
+        "genres": [
+            "Fighting",
+            "Sport"
+        ],
+        "rating": 84.0
+    },
+    {
+        "name": "Outlast 2",
+        "playtime_hours": 0.0,
+        "app_id": 414700,
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 77.0
+    },
+    {
+        "name": "Slime Rancher",
+        "playtime_hours": 0.0,
+        "app_id": 433340,
+        "genres": [
+            "Shooter",
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 80.0
+    },
+    {
+        "name": "Paladins - Public Test",
+        "playtime_hours": 0.0,
+        "app_id": 596350,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 75.0
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_hours": 0.0,
+        "app_id": 623990,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 85.0
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "playtime_hours": 0.0,
+        "app_id": 292030,
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 93.0
+    },
+    {
+        "name": "Visage",
+        "playtime_hours": 0.0,
+        "app_id": 594330,
+        "genres": [
+            "Puzzle",
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 87.0
+    },
+    {
+        "name": "Yuppie Psycho",
+        "playtime_hours": 0.0,
+        "app_id": 597760,
+        "genres": [
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 85.0
+    },
+    {
+        "name": "Disco Elysium",
+        "playtime_hours": 0.0,
+        "app_id": 632470,
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 89
+    },
+    {
+        "name": "Offworld Trading Company",
+        "playtime_hours": 0.0,
+        "app_id": 271240,
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "rating": 89.33
+    },
+    {
+        "name": "Splitgate",
+        "playtime_hours": 0.0,
+        "app_id": 677620,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 65
+    },
+    {
+        "name": "GRIS",
+        "playtime_hours": 0.0,
+        "app_id": 683320,
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 81.25
+    },
+    {
+        "name": "Kingdom: New Lands",
+        "playtime_hours": 0.0,
+        "app_id": 496300,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie",
+            "Arcade"
+        ],
+        "rating": 75
+    },
+    {
+        "name": "Realm Royale - Test Server",
+        "playtime_hours": 0.0,
+        "app_id": 878760,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 70
+    },
+    {
+        "name": "Sunset Overdrive",
+        "playtime_hours": 0.0,
+        "app_id": 847370,
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Adventure"
+        ],
+        "rating": 81.75
+    },
+    {
+        "name": "Quake Champions",
+        "playtime_hours": 0.0,
+        "app_id": 611500,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 78
+    },
+    {
+        "name": "Odysseus Kosmos and his Robot Quest - Episode 1",
+        "playtime_hours": 0.0,
+        "app_id": 769920,
+        "genres": [
+            "Indie"
+        ],
+        "rating": 75
+    },
+    {
+        "name": "Batman: Arkham Asylum GOTY Edition",
+        "playtime_hours": 0.0,
+        "app_id": 35140,
+        "genres": [
+            "Adventure"
+        ],
+        "rating": 91
+    },
+    {
+        "name": "Batman: Arkham City GOTY",
+        "playtime_hours": 0.0,
+        "app_id": 200260,
+        "genres": [
+            "Adventure"
+        ],
+        "rating": 91
+    },
+    {
+        "name": "Batman™: Arkham Knight",
+        "playtime_hours": 0.0,
+        "app_id": 208650,
+        "genres": [
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ],
+        "rating": 85
+    },
+    {
+        "name": "Minion Masters",
+        "playtime_hours": 0.0,
+        "app_id": 489520,
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Role-playing (RPG)",
+            "Strategy",
+            "Turn-based strategy (TBS)",
+            "Adventure",
+            "Indie",
+            "Card & Board Game"
+        ],
+        "rating": 70
+    },
+    {
+        "name": "Mafia: Definitive Edition",
+        "playtime_hours": 0.0,
+        "app_id": 1030840,
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ],
+        "rating": 74.73
+    },
+    {
+        "name": "Ori and the Will of the Wisps",
+        "playtime_hours": 0.0,
+        "app_id": 1057090,
+        "genres": [
+            "Platform",
+            "Adventure"
+        ],
+        "rating": 90.75
+    },
+    {
+        "name": "Inscryption",
+        "playtime_hours": 0.0,
+        "app_id": 1092790,
+        "genres": [
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "Indie",
+            "Card & Board Game"
+        ],
+        "rating": 82.25
+    },
+ {
+        "name": "Kabounce",
+        "playtime_hours": 0.0,
+        "app_id": 431930,
+        "genres": [
+            "Racing",
+            "Sport",
+            "Indie"
+        ],
+        "rating": 75
+    },
+    {
+        "name": "Ready or Not",
+        "playtime_hours": 0.0,
+        "app_id": 1144200,
+        "genres": [
+            "Shooter",
+            "Simulator",
+            "Tactical",
+            "Indie"
+        ],
+        "rating": 80
+    },
+    {
+        "name": "Destiny 2",
+        "playtime_hours": 0.0,
+        "app_id": 1085660,
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "rating": 82.44
+    },
+    {
+        "name": "Need for Speed™ Heat ",
+        "playtime_hours": 0.0,
+        "app_id": 1222680,
+        "genres": [
+            "Racing"
+        ],
+        "rating": 78
+    },
+    {
+        "name": "Battlefield 1 ™",
+        "playtime_hours": 0.0,
+        "app_id": 1238840,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 88
+    },
+    {
+        "name": "Diplomacy is Not an Option",
+        "playtime_hours": 0.0,
+        "app_id": 1272320,
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "rating": 75
+    },
+    {
+        "name": "Total War: SHOGUN 2",
+        "playtime_hours": 0.0,
+        "app_id": 34330,
+        "genres": [
+            "Strategy"
+        ],
+        "rating": 89
+    },
+    {
+        "name": "The LEGO® NINJAGO® Movie Video Game",
+        "playtime_hours": 0.0,
+        "app_id": 640590,
+        "genres": [
+            "Adventure"
+        ],
+        "rating": 75
+    },
+    {
+        "name": "Mr. Prepper: Prologue",
+        "playtime_hours": 0.0,
+        "app_id": 1340530,
+        "genres": [
+            "Simulator"
+        ],
+        "rating": 70
+    },
+    {
+        "name": "Little Nightmares II",
+        "playtime_hours": 0.0,
+        "app_id": 860510,
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Adventure"
+        ],
+        "rating": 82.23
+    },
+    {
+        "name": "Resident Evil Re:Verse",
+        "playtime_hours": 0.0,
+        "app_id": 1236300,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 70
+    },
+    {
+        "name": "Company of Heroes 2",
+        "playtime_hours": 0.0,
+        "app_id": 231430,
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Strategy"
+        ],
+        "rating": 77.73
+    },
+    {
+        "name": "MultiVersus",
+        "playtime_hours": 0.0,
+        "app_id": 1818750,
+        "genres": [
+            "Fighting"
+        ],
+        "rating": 75
+    },
+    {
+        "name": "Black Desert",
+        "playtime_hours": 0.0,
+        "app_id": 582660,
+        "genres": [
+            "Role-playing (RPG)",
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ],
+        "rating": 75
+    },
+    {
+        "name": "Cult of the Lamb",
+        "playtime_hours": 0.0,
+        "app_id": 1313140,
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Strategy",
+            "Hack and slash/Beat 'em up",
+            "Adventure",
+            "Indie"
+        ],
+        "rating": 88.83
+    },
+    {
+        "name": "The Classrooms",
+        "playtime_hours": 0.0,
+        "app_id": 2099110,
+        "genres": [
+            "Indie"
+        ],
+        "rating": 70
+    },
+    {
+        "name": "The Murder of Sonic the Hedgehog",
+        "playtime_hours": 0.0,
+        "app_id": 2324650,
+        "genres": [
+            "Point-and-click",
+            "Simulator",
+            "Indie",
+            "Visual Novel"
+        ],
+        "rating": 75
+    },
+    {
+        "name": "Overwatch® 2",
+        "playtime_hours": 0.0,
+        "app_id": 2357570,
+        "genres": [
+            "Shooter"
+        ],
+        "rating": 85
+    },
+    {
+        "name": "DON'T SCREAM",
+        "playtime_hours": 0.0,
+        "app_id": 2497900,
+        "genres": [
+            "Indie"
+        ],
+        "rating": 70
+    }
+]

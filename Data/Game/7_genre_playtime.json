@@ -1,0 +1,21 @@
+{
+    "Shooter": 746.6999999999999,
+    "Platform": 92.10000000000001,
+    "Puzzle": 113.16666666666666,
+    "Adventure": 582.1833333333334,
+    "Simulator": 642.2833333333333,
+    "Indie": 412.51666666666677,
+    "Strategy": 545.2166666666667,
+    "Turn-based strategy (TBS)": 189.5,
+    "Role-playing (RPG)": 243.10000000000005,
+    "Real Time Strategy (RTS)": 297.6333333333333,
+    "Point-and-click": 8.666666666666666,
+    "Hack and slash/Beat 'em up": 76.58333333333334,
+    "Tactical": 502.93333333333334,
+    "Fighting": 53.39999999999999,
+    "Arcade": 75.76666666666668,
+    "Racing": 17.566666666666666,
+    "Sport": 19.2,
+    "Card & Board Game": 33.96666666666667,
+    "Visual Novel": 2.433333333333333
+}

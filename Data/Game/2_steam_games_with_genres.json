@@ -1,0 +1,1256 @@
+[
+    {
+        "name": "Half-Life: Source",
+        "playtime_hours": 9.2,
+        "app_id": 280,
+        "achievements": 0,
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Puzzle",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Garry's Mod",
+        "playtime_hours": 0.35,
+        "app_id": 4000,
+        "achievements": 1,
+        "genres": [
+            "Simulator",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Killing Floor",
+        "playtime_hours": 4.2,
+        "app_id": 1250,
+        "achievements": 0,
+        "genres": [
+            "Shooter",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Left 4 Dead 2",
+        "playtime_hours": 7.35,
+        "app_id": 550,
+        "achievements": 9,
+        "genres": [
+            "Shooter"
+        ]
+    },
+    {
+        "name": "Sid Meier's Civilization V",
+        "playtime_hours": 171.0,
+        "app_id": 8930,
+        "achievements": 34,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Turn-based strategy (TBS)"
+        ]
+    },
+    {
+        "name": "Delve Deeper",
+        "playtime_hours": 7.916666666666667,
+        "app_id": 63800,
+        "achievements": 0,
+        "genres": [
+            "Role-playing (RPG)",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Age of Empires\u00ae III (2007)",
+        "playtime_hours": 13.133333333333333,
+        "app_id": 105450,
+        "achievements": 0,
+        "genres": [
+            "Real Time Strategy (RTS)"
+        ]
+    },
+    {
+        "name": "Deponia",
+        "playtime_hours": 8.666666666666666,
+        "app_id": 214340,
+        "achievements": 11,
+        "genres": [
+            "Point-and-click",
+            "Puzzle",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Castle Crashers",
+        "playtime_hours": 29.616666666666667,
+        "app_id": 204360,
+        "achievements": 4,
+        "genres": [
+            "Puzzle",
+            "Role-playing (RPG)",
+            "Hack and slash/Beat 'em up",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Borderlands 2",
+        "playtime_hours": 11.7,
+        "app_id": 49520,
+        "achievements": 8,
+        "genres": [
+            "Adventure",
+            "Shooter"
+        ]
+    },
+    {
+        "name": "Warframe",
+        "playtime_hours": 1.4166666666666667,
+        "app_id": 230410,
+        "achievements": 7,
+        "genres": [
+            "Role-playing (RPG)"
+        ]
+    },
+    {
+        "name": "Sniper Ghost Warrior 2",
+        "playtime_hours": 4.133333333333334,
+        "app_id": 34870,
+        "achievements": 7,
+        "genres": [
+            "Shooter",
+            "Tactical"
+        ]
+    },
+    {
+        "name": "The Forest",
+        "playtime_hours": 30.433333333333334,
+        "app_id": 242760,
+        "achievements": 23,
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "PAYDAY 2",
+        "playtime_hours": 2.683333333333333,
+        "app_id": 218620,
+        "achievements": 0,
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Tactical"
+        ]
+    },
+    {
+        "name": "Europa Universalis IV",
+        "playtime_hours": 110.28333333333333,
+        "app_id": 236850,
+        "achievements": 3,
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Strategy"
+        ]
+    },
+    {
+        "name": "Project Zomboid",
+        "playtime_hours": 0.18333333333333332,
+        "app_id": 108600,
+        "achievements": 0,
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Trove",
+        "playtime_hours": 1.5,
+        "app_id": 304050,
+        "achievements": 0,
+        "genres": [
+            "Platform",
+            "Role-playing (RPG)",
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Unturned",
+        "playtime_hours": 2.7,
+        "app_id": 304930,
+        "achievements": 12,
+        "genres": [
+            "Shooter",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Sniper Elite 3",
+        "playtime_hours": 0.1,
+        "app_id": 238090,
+        "achievements": 0,
+        "genres": [
+            "Shooter",
+            "Simulator",
+            "Tactical",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Stealth Bastard Deluxe",
+        "playtime_hours": 6.383333333333334,
+        "app_id": 209190,
+        "achievements": 1,
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Velocity\u00aeUltra",
+        "playtime_hours": 5.366666666666666,
+        "app_id": 244890,
+        "achievements": 0,
+        "genres": [
+            "Platform"
+        ]
+    },
+    {
+        "name": "Warface: Clutch",
+        "playtime_hours": 0.25,
+        "app_id": 291480,
+        "achievements": 0,
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Simulator",
+            "Strategy",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Age of Empires II (2013)",
+        "playtime_hours": 4.233333333333333,
+        "app_id": 221380,
+        "achievements": 9,
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Strategy"
+        ]
+    },
+    {
+        "name": "Ryse: Son of Rome",
+        "playtime_hours": 0.36666666666666664,
+        "app_id": 302510,
+        "achievements": 4,
+        "genres": [
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Alien: Isolation",
+        "playtime_hours": 22.05,
+        "app_id": 214490,
+        "achievements": 40,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Depth",
+        "playtime_hours": 3.6166666666666667,
+        "app_id": 274940,
+        "achievements": 7,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Counter-Strike 2",
+        "playtime_hours": 485.6333333333333,
+        "app_id": 730,
+        "achievements": 1,
+        "genres": [
+            "Shooter",
+            "Tactical"
+        ]
+    },
+    {
+        "name": "Dirty Bomb",
+        "playtime_hours": 0.016666666666666666,
+        "app_id": 333930,
+        "achievements": 0,
+        "genres": [
+            "Shooter"
+        ]
+    },
+    {
+        "name": "ARK: Survival Evolved",
+        "playtime_hours": 38.11666666666667,
+        "app_id": 346110,
+        "achievements": 3,
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)",
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Wolfenstein: The New Order",
+        "playtime_hours": 14.816666666666666,
+        "app_id": 201810,
+        "achievements": 19,
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Don't Starve Together",
+        "playtime_hours": 5.55,
+        "app_id": 322330,
+        "achievements": 0,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Ori and the Blind Forest",
+        "playtime_hours": 1.95,
+        "app_id": 261570,
+        "achievements": 9,
+        "genres": [
+            "Platform",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Brawlhalla",
+        "playtime_hours": 14.666666666666666,
+        "app_id": 291550,
+        "achievements": 3,
+        "genres": [
+            "Fighting",
+            "Platform",
+            "Indie",
+            "Arcade"
+        ]
+    },
+    {
+        "name": "Hearts of Iron IV",
+        "playtime_hours": 147.83333333333334,
+        "app_id": 394360,
+        "achievements": 0,
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Strategy"
+        ]
+    },
+    {
+        "name": "Tower Unite",
+        "playtime_hours": 11.466666666666667,
+        "app_id": 394690,
+        "achievements": 32,
+        "genres": [
+            "Shooter",
+            "Racing",
+            "Simulator",
+            "Sport",
+            "Adventure",
+            "Indie",
+            "Arcade",
+            "Card & Board Game"
+        ]
+    },
+    {
+        "name": "Just Cause 3",
+        "playtime_hours": 19.716666666666665,
+        "app_id": 225540,
+        "achievements": 13,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Business Tour - Online Multiplayer Board Game",
+        "playtime_hours": 8.133333333333333,
+        "app_id": 397900,
+        "achievements": 0,
+        "genres": [
+            "Real Time Strategy (RTS)"
+        ]
+    },
+    {
+        "name": "Creativerse",
+        "playtime_hours": 47.68333333333333,
+        "app_id": 280790,
+        "achievements": 0,
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Rise of the Tomb Raider",
+        "playtime_hours": 19.783333333333335,
+        "app_id": 391220,
+        "achievements": 17,
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "10 Second Ninja X",
+        "playtime_hours": 12.266666666666667,
+        "app_id": 435790,
+        "achievements": 7,
+        "genres": [
+            "Fighting",
+            "Platform",
+            "Puzzle",
+            "Indie",
+            "Arcade"
+        ]
+    },
+    {
+        "name": "Paladins",
+        "playtime_hours": 0.5666666666666667,
+        "app_id": 444090,
+        "achievements": 0,
+        "genres": [
+            "Role-playing (RPG)",
+            "Strategy"
+        ]
+    },
+    {
+        "name": "Wizard of Legend",
+        "playtime_hours": 6.016666666666667,
+        "app_id": 445980,
+        "achievements": 1,
+        "genres": [
+            "Role-playing (RPG)",
+            "Hack and slash/Beat 'em up",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "playtime_hours": 5.233333333333333,
+        "app_id": 359550,
+        "achievements": 0,
+        "genres": [
+            "Shooter",
+            "Tactical"
+        ]
+    },
+    {
+        "name": "Manual Samuel - Anniversary Edition",
+        "playtime_hours": 6.783333333333333,
+        "app_id": 504130,
+        "achievements": 0,
+        "genres": [
+            "Platform"
+        ]
+    },
+    {
+        "name": "Life is Strange\u2122",
+        "playtime_hours": 2.3666666666666667,
+        "app_id": 319630,
+        "achievements": 1,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Party Panic",
+        "playtime_hours": 4.466666666666667,
+        "app_id": 506500,
+        "achievements": 4,
+        "genres": [
+            "Platform"
+        ]
+    },
+    {
+        "name": "Zup! X",
+        "playtime_hours": 5.0,
+        "app_id": 508900,
+        "achievements": 0,
+        "genres": [
+            "Puzzle",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Sid Meier's Civilization VI",
+        "playtime_hours": 18.5,
+        "app_id": 289070,
+        "achievements": 8,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Turn-based strategy (TBS)"
+        ]
+    },
+    {
+        "name": "Satisfactory",
+        "playtime_hours": 4.25,
+        "app_id": 526870,
+        "achievements": 0,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Zup!",
+        "playtime_hours": 5.066666666666666,
+        "app_id": 533300,
+        "achievements": 66,
+        "genres": [
+            "Puzzle"
+        ]
+    },
+    {
+        "name": "Dying Light 2: Reloaded Edition",
+        "playtime_hours": 4.05,
+        "app_id": 534380,
+        "achievements": 7,
+        "genres": [
+            "Shooter",
+            "Role-playing (RPG)"
+        ]
+    },
+    {
+        "name": "Genital Jousting",
+        "playtime_hours": 0.36666666666666664,
+        "app_id": 469820,
+        "achievements": 1,
+        "genres": [
+            "Indie"
+        ]
+    },
+    {
+        "name": "Alien Swarm: Reactive Drop",
+        "playtime_hours": 2.2666666666666666,
+        "app_id": 563560,
+        "achievements": 13,
+        "genres": [
+            "Shooter"
+        ]
+    },
+    {
+        "name": "Friday the 13th: The Game",
+        "playtime_hours": 1.2833333333333334,
+        "app_id": 438740,
+        "achievements": 4,
+        "genres": [
+            "Indie"
+        ]
+    },
+    {
+        "name": "Kingdoms and Castles",
+        "playtime_hours": 7.766666666666667,
+        "app_id": 569480,
+        "achievements": 6,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Golf It!",
+        "playtime_hours": 1.3333333333333333,
+        "app_id": 571740,
+        "achievements": 5,
+        "genres": [
+            "Platform"
+        ]
+    },
+    {
+        "name": "Zup! 3",
+        "playtime_hours": 4.716666666666667,
+        "app_id": 575640,
+        "achievements": 0,
+        "genres": [
+            "Puzzle",
+            "Indie"
+        ]
+    },
+    {
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_hours": 13.65,
+        "app_id": 578080,
+        "achievements": 6,
+        "genres": [
+            "Shooter"
+        ]
+    },
+    {
+        "name": "Zup! S",
+        "playtime_hours": 5.866666666666666,
+        "app_id": 617670,
+        "achievements": 0,
+        "genres": [
+            "Puzzle"
+        ]
+    },
+    {
+        "name": "Just Cause\u2122 3: Multiplayer Mod",
+        "playtime_hours": 0.15,
+        "app_id": 619910,
+        "achievements": 0,
+        "genres": [
+            "Shooter"
+        ]
+    },
+    {
+        "name": "Hand Simulator",
+        "playtime_hours": 5.933333333333334,
+        "app_id": 657200,
+        "achievements": 15,
+        "genres": [
+            "Simulator"
+        ]
+    },
+    {
+        "name": "Stick Fight: The Game",
+        "playtime_hours": 17.633333333333333,
+        "app_id": 674940,
+        "achievements": 25,
+        "genres": [
+            "Fighting",
+            "Shooter",
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Scorn",
+        "playtime_hours": 6.283333333333333,
+        "app_id": 698670,
+        "achievements": 11,
+        "genres": [
+            "Puzzle",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Kingdom Two Crowns",
+        "playtime_hours": 15.616666666666667,
+        "app_id": 701160,
+        "achievements": 11,
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie",
+            "Arcade"
+        ]
+    },
+    {
+        "name": "Monster Prom",
+        "playtime_hours": 2.4166666666666665,
+        "app_id": 743450,
+        "achievements": 3,
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Kingdom: Classic",
+        "playtime_hours": 0.7,
+        "app_id": 368230,
+        "achievements": 0,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Paunch",
+        "playtime_hours": 0.6333333333333333,
+        "app_id": 792220,
+        "achievements": 1,
+        "genres": [
+            "Role-playing (RPG)",
+            "Sport",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Realm Royale Reforged",
+        "playtime_hours": 25.85,
+        "app_id": 813820,
+        "achievements": 13,
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Subnautica: Below Zero",
+        "playtime_hours": 19.016666666666666,
+        "app_id": 848450,
+        "achievements": 7,
+        "genres": [
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Secret Neighbor",
+        "playtime_hours": 2.533333333333333,
+        "app_id": 859570,
+        "achievements": 0,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Pummel Party",
+        "playtime_hours": 1.1666666666666667,
+        "app_id": 880940,
+        "achievements": 3,
+        "genres": [
+            "Indie",
+            "Arcade",
+            "Card & Board Game"
+        ]
+    },
+    {
+        "name": "Layers of Fear (2016)",
+        "playtime_hours": 2.066666666666667,
+        "app_id": 391720,
+        "achievements": 0,
+        "genres": [
+            "Adventure",
+            "Puzzle"
+        ]
+    },
+    {
+        "name": "Back 4 Blood",
+        "playtime_hours": 6.45,
+        "app_id": 924970,
+        "achievements": 19,
+        "genres": [
+            "Adventure",
+            "Shooter"
+        ]
+    },
+    {
+        "name": "Age of Empires III: Definitive Edition",
+        "playtime_hours": 14.016666666666667,
+        "app_id": 933110,
+        "achievements": 3,
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Strategy"
+        ]
+    },
+    {
+        "name": "Hidden Deep",
+        "playtime_hours": 0.18333333333333332,
+        "app_id": 976890,
+        "achievements": 0,
+        "genres": [
+            "Platform",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "A Story About My Uncle",
+        "playtime_hours": 3.45,
+        "app_id": 278360,
+        "achievements": 0,
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "KHOLAT",
+        "playtime_hours": 3.35,
+        "app_id": 343710,
+        "achievements": 0,
+        "genres": [
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Superliminal",
+        "playtime_hours": 3.9166666666666665,
+        "app_id": 1049410,
+        "achievements": 4,
+        "genres": [
+            "Puzzle",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Wolfenstein: Youngblood",
+        "playtime_hours": 11.733333333333333,
+        "app_id": 1056960,
+        "achievements": 22,
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Palmyra Orphanage",
+        "playtime_hours": 0.36666666666666664,
+        "app_id": 1085160,
+        "achievements": 2,
+        "genres": [
+            "Indie"
+        ]
+    },
+    {
+        "name": "GRID 2",
+        "playtime_hours": 6.1,
+        "app_id": 44350,
+        "achievements": 2,
+        "genres": [
+            "Racing",
+            "Simulator",
+            "Sport",
+            "Arcade"
+        ]
+    },
+    {
+        "name": "Gang Beasts",
+        "playtime_hours": 2.9166666666666665,
+        "app_id": 285900,
+        "achievements": 7,
+        "genres": [
+            "Fighting",
+            "Indie"
+        ]
+    },
+    {
+        "name": "The Wandering Village",
+        "playtime_hours": 1.4166666666666667,
+        "app_id": 1121640,
+        "achievements": 1,
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ]
+    },
+    {
+        "name": "RISK: Global Domination",
+        "playtime_hours": 21.333333333333332,
+        "app_id": 1128810,
+        "achievements": 20,
+        "genres": [
+            "Strategy",
+            "Card & Board Game"
+        ]
+    },
+    {
+        "name": "Gears 5",
+        "playtime_hours": 21.683333333333334,
+        "app_id": 1097840,
+        "achievements": 24,
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Apex Legends",
+        "playtime_hours": 1.5166666666666666,
+        "app_id": 1172470,
+        "achievements": 1,
+        "genres": [
+            "Shooter",
+            "Tactical"
+        ]
+    },
+    {
+        "name": "Titanfall\u00ae 2",
+        "playtime_hours": 5.35,
+        "app_id": 1237970,
+        "achievements": 33,
+        "genres": [
+            "Adventure",
+            "Shooter"
+        ]
+    },
+    {
+        "name": "DEVOUR",
+        "playtime_hours": 2.433333333333333,
+        "app_id": 1274570,
+        "achievements": 12,
+        "genres": [
+            "Indie"
+        ]
+    },
+    {
+        "name": "Helltaker",
+        "playtime_hours": 1.35,
+        "app_id": 1289310,
+        "achievements": 8,
+        "genres": [
+            "Puzzle",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "The Mortuary Assistant",
+        "playtime_hours": 1.2166666666666666,
+        "app_id": 1295920,
+        "achievements": 5,
+        "genres": [
+            "Puzzle",
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "The Outlast Trials",
+        "playtime_hours": 3.2,
+        "app_id": 1304930,
+        "achievements": 0,
+        "genres": [
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Sons Of The Forest",
+        "playtime_hours": 12.366666666666667,
+        "app_id": 1326470,
+        "achievements": 2,
+        "genres": [
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "PICO PARK",
+        "playtime_hours": 3.5833333333333335,
+        "app_id": 1509960,
+        "achievements": 0,
+        "genres": [
+            "Puzzle",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Resident Evil 7 Biohazard",
+        "playtime_hours": 1.7833333333333334,
+        "app_id": 418370,
+        "achievements": 6,
+        "genres": [
+            "Shooter",
+            "Puzzle",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Resident Evil Village",
+        "playtime_hours": 19.6,
+        "app_id": 1196590,
+        "achievements": 28,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "ROUNDS",
+        "playtime_hours": 13.4,
+        "app_id": 1557740,
+        "achievements": 9,
+        "genres": [
+            "Platform",
+            "Role-playing (RPG)",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "God of War",
+        "playtime_hours": 39.083333333333336,
+        "app_id": 1593500,
+        "achievements": 29,
+        "genres": [
+            "Role-playing (RPG)",
+            "Hack and slash/Beat 'em up",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Dome Keeper",
+        "playtime_hours": 3.6333333333333333,
+        "app_id": 1637320,
+        "achievements": 8,
+        "genres": [
+            "Tactical",
+            "Indie",
+            "Arcade"
+        ]
+    },
+    {
+        "name": "Little Nightmares",
+        "playtime_hours": 0.3,
+        "app_id": 424840,
+        "achievements": 0,
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Fears to Fathom - Episode 1",
+        "playtime_hours": 0.9,
+        "app_id": 1671340,
+        "achievements": 2,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "The Stanley Parable: Ultra Deluxe",
+        "playtime_hours": 1.4166666666666667,
+        "app_id": 1703340,
+        "achievements": 3,
+        "genres": [
+            "Simulator",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Mortal Shell",
+        "playtime_hours": 1.5166666666666666,
+        "app_id": 1110910,
+        "achievements": 1,
+        "genres": [
+            "Role-playing (RPG)",
+            "Indie"
+        ]
+    },
+    {
+        "name": "DEATHLOOP",
+        "playtime_hours": 3.683333333333333,
+        "app_id": 1252330,
+        "achievements": 4,
+        "genres": [
+            "Shooter",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Fears to Fathom - Episode 2",
+        "playtime_hours": 1.0333333333333334,
+        "app_id": 1763050,
+        "achievements": 4,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Choo-Choo Charles",
+        "playtime_hours": 2.566666666666667,
+        "app_id": 1766740,
+        "achievements": 19,
+        "genres": [
+            "Shooter",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Escape the Backrooms",
+        "playtime_hours": 6.833333333333333,
+        "app_id": 1943950,
+        "achievements": 1,
+        "genres": [
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Lethal Company",
+        "playtime_hours": 13.45,
+        "app_id": 1966720,
+        "achievements": 0,
+        "genres": [
+            "Indie"
+        ]
+    },
+    {
+        "name": "Inside the Backrooms",
+        "playtime_hours": 7.166666666666667,
+        "app_id": 1987080,
+        "achievements": 8,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Cuphead",
+        "playtime_hours": 3.933333333333333,
+        "app_id": 268910,
+        "achievements": 4,
+        "genres": [
+            "Shooter",
+            "Platform",
+            "Adventure",
+            "Indie",
+            "Arcade"
+        ]
+    },
+    {
+        "name": "KinitoPET",
+        "playtime_hours": 2.433333333333333,
+        "app_id": 2075070,
+        "achievements": 8,
+        "genres": [
+            "Simulator",
+            "Indie",
+            "Visual Novel"
+        ]
+    },
+    {
+        "name": "Fears to Fathom - Episode 3",
+        "playtime_hours": 1.3833333333333333,
+        "app_id": 2120900,
+        "achievements": 3,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Endoparasitic",
+        "playtime_hours": 7.016666666666667,
+        "app_id": 2124780,
+        "achievements": 11,
+        "genres": [
+            "Shooter",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Resident Evil 4",
+        "playtime_hours": 0.5833333333333334,
+        "app_id": 2050650,
+        "achievements": 1,
+        "genres": [
+            "Adventure"
+        ]
+    },
+    {
+        "name": "Anomaly Agent",
+        "playtime_hours": 5.916666666666667,
+        "app_id": 2378620,
+        "achievements": 20,
+        "genres": [
+            "Fighting",
+            "Platform",
+            "Adventure",
+            "Indie",
+            "Arcade"
+        ]
+    },
+    {
+        "name": "Biped",
+        "playtime_hours": 1.0,
+        "app_id": 1071870,
+        "achievements": 3,
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Simulator",
+            "Sport",
+            "Strategy",
+            "Adventure",
+            "Indie",
+            "Arcade"
+        ]
+    },
+    {
+        "name": "Fears to Fathom - Ironbark Lookout",
+        "playtime_hours": 2.816666666666667,
+        "app_id": 2506160,
+        "achievements": 4,
+        "genres": [
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Chained Together",
+        "playtime_hours": 14.716666666666667,
+        "app_id": 2567870,
+        "achievements": 13,
+        "genres": [
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "Dollmare",
+        "playtime_hours": 2.316666666666667,
+        "app_id": 2793710,
+        "achievements": 12,
+        "genres": [
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ]
+    },
+    {
+        "name": "The Cabin Factory",
+        "playtime_hours": 1.4333333333333333,
+        "app_id": 3311740,
+        "achievements": 3,
+        "genres": [
+            "Puzzle",
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ]
+    }
+]

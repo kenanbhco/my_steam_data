@@ -1,0 +1,367 @@
+[
+    {
+        "name": "Team Fortress Classic",
+        "playtime_hours": 0.0,
+        "app_id": 20
+    },
+    {
+        "name": "Half-Life: Opposing Force",
+        "playtime_hours": 0.0,
+        "app_id": 50
+    },
+    {
+        "name": "Half-Life",
+        "playtime_hours": 0.0,
+        "app_id": 70
+    },
+    {
+        "name": "Half-Life: Blue Shift",
+        "playtime_hours": 0.0,
+        "app_id": 130
+    },
+    {
+        "name": "Half-Life 2",
+        "playtime_hours": 0.0,
+        "app_id": 220
+    },
+    {
+        "name": "Half-Life 2: Deathmatch",
+        "playtime_hours": 0.0,
+        "app_id": 320
+    },
+    {
+        "name": "Half-Life Deathmatch: Source",
+        "playtime_hours": 0.0,
+        "app_id": 360
+    },
+    {
+        "name": "Portal",
+        "playtime_hours": 0.0,
+        "app_id": 400
+    },
+    {
+        "name": "Killing Floor Mod: Defence Alliance 2",
+        "playtime_hours": 0.0,
+        "app_id": 35420
+    },
+    {
+        "name": "Portal 2",
+        "playtime_hours": 0.0,
+        "app_id": 620
+    },
+    {
+        "name": "Terraria",
+        "playtime_hours": 0.0,
+        "app_id": 105600
+    },
+    {
+        "name": "PlanetSide 2",
+        "playtime_hours": 0.0,
+        "app_id": 218230
+    },
+    {
+        "name": "PlanetSide 2 - Test",
+        "playtime_hours": 0.0,
+        "app_id": 1083500
+    },
+    {
+        "name": "War Thunder",
+        "playtime_hours": 0.0,
+        "app_id": 236390
+    },
+    {
+        "name": "Path of Exile",
+        "playtime_hours": 0.0,
+        "app_id": 238960
+    },
+    {
+        "name": "Assetto Corsa",
+        "playtime_hours": 0.0,
+        "app_id": 244210
+    },
+    {
+        "name": "Tabletop Simulator",
+        "playtime_hours": 0.0,
+        "app_id": 286160
+    },
+    {
+        "name": "S.K.I.L.L. - Special Force 2",
+        "playtime_hours": 0.0,
+        "app_id": 286940
+    },
+    {
+        "name": "INSIDE",
+        "playtime_hours": 0.0,
+        "app_id": 304430
+    },
+    {
+        "name": "Explodemon",
+        "playtime_hours": 0.0,
+        "app_id": 281820
+    },
+    {
+        "name": "DiRT Rally",
+        "playtime_hours": 0.0,
+        "app_id": 310560
+    },
+    {
+        "name": "Heroes & Generals",
+        "playtime_hours": 0.0,
+        "app_id": 227940
+    },
+    {
+        "name": "Frostpunk",
+        "playtime_hours": 0.0,
+        "app_id": 323190
+    },
+    {
+        "name": "Borderlands: The Pre-Sequel",
+        "playtime_hours": 0.0,
+        "app_id": 261640
+    },
+    {
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_hours": 0.0,
+        "app_id": 407530
+    },
+    {
+        "name": "Wolfenstein: The Old Blood ",
+        "playtime_hours": 0.0,
+        "app_id": 350080
+    },
+    {
+        "name": "Black Mesa",
+        "playtime_hours": 0.0,
+        "app_id": 362890
+    },
+    {
+        "name": "Magicka 2",
+        "playtime_hours": 0.0,
+        "app_id": 238370
+    },
+    {
+        "name": "Magicka 2: Spell Balance Beta",
+        "playtime_hours": 0.0,
+        "app_id": 397080
+    },
+    {
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "playtime_hours": 0.0,
+        "app_id": 387290
+    },
+    {
+        "name": "TEKKEN 7",
+        "playtime_hours": 0.0,
+        "app_id": 389730
+    },
+    {
+        "name": "Outlast 2",
+        "playtime_hours": 0.0,
+        "app_id": 414700
+    },
+    {
+        "name": "Slime Rancher",
+        "playtime_hours": 0.0,
+        "app_id": 433340
+    },
+    {
+        "name": "Paladins - Public Test",
+        "playtime_hours": 0.0,
+        "app_id": 596350
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_hours": 0.0,
+        "app_id": 623990
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "playtime_hours": 0.0,
+        "app_id": 292030
+    },
+    {
+        "name": "Visage",
+        "playtime_hours": 0.0,
+        "app_id": 594330
+    },
+    {
+        "name": "Yuppie Psycho",
+        "playtime_hours": 0.0,
+        "app_id": 597760
+    },
+    {
+        "name": "Disco Elysium",
+        "playtime_hours": 0.0,
+        "app_id": 632470
+    },
+    {
+        "name": "Offworld Trading Company",
+        "playtime_hours": 0.0,
+        "app_id": 271240
+    },
+    {
+        "name": "Splitgate",
+        "playtime_hours": 0.0,
+        "app_id": 677620
+    },
+    {
+        "name": "GRIS",
+        "playtime_hours": 0.0,
+        "app_id": 683320
+    },
+    {
+        "name": "Kingdom: New Lands",
+        "playtime_hours": 0.0,
+        "app_id": 496300
+    },
+    {
+        "name": "Realm Royale - Test Server",
+        "playtime_hours": 0.0,
+        "app_id": 878760
+    },
+    {
+        "name": "Sunset Overdrive",
+        "playtime_hours": 0.0,
+        "app_id": 847370
+    },
+    {
+        "name": "Quake Champions",
+        "playtime_hours": 0.0,
+        "app_id": 611500
+    },
+    {
+        "name": "Odysseus Kosmos and his Robot Quest - Episode 1",
+        "playtime_hours": 0.0,
+        "app_id": 769920
+    },
+    {
+        "name": "Batman: Arkham Asylum GOTY Edition",
+        "playtime_hours": 0.0,
+        "app_id": 35140
+    },
+    {
+        "name": "Batman: Arkham City GOTY",
+        "playtime_hours": 0.0,
+        "app_id": 200260
+    },
+    {
+        "name": "Batman\u2122: Arkham Knight",
+        "playtime_hours": 0.0,
+        "app_id": 208650
+    },
+    {
+        "name": "Minion Masters",
+        "playtime_hours": 0.0,
+        "app_id": 489520
+    },
+    {
+        "name": "Mafia: Definitive Edition",
+        "playtime_hours": 0.0,
+        "app_id": 1030840
+    },
+    {
+        "name": "Ori and the Will of the Wisps",
+        "playtime_hours": 0.0,
+        "app_id": 1057090
+    },
+    {
+        "name": "Inscryption",
+        "playtime_hours": 0.0,
+        "app_id": 1092790
+    },
+    {
+        "name": "Kabounce",
+        "playtime_hours": 0.0,
+        "app_id": 431930
+    },
+    {
+        "name": "Ready or Not",
+        "playtime_hours": 0.0,
+        "app_id": 1144200
+    },
+    {
+        "name": "Destiny 2",
+        "playtime_hours": 0.0,
+        "app_id": 1085660
+    },
+    {
+        "name": "Need for Speed\u2122 Heat ",
+        "playtime_hours": 0.0,
+        "app_id": 1222680
+    },
+    {
+        "name": "Battlefield 1 \u2122",
+        "playtime_hours": 0.0,
+        "app_id": 1238840
+    },
+    {
+        "name": "Diplomacy is Not an Option",
+        "playtime_hours": 0.0,
+        "app_id": 1272320
+    },
+    {
+        "name": "Total War: SHOGUN 2",
+        "playtime_hours": 0.0,
+        "app_id": 34330
+    },
+    {
+        "name": "The LEGO\u00ae NINJAGO\u00ae Movie Video Game",
+        "playtime_hours": 0.0,
+        "app_id": 640590
+    },
+    {
+        "name": "Mr. Prepper: Prologue",
+        "playtime_hours": 0.0,
+        "app_id": 1340530
+    },
+    {
+        "name": "Little Nightmares II",
+        "playtime_hours": 0.0,
+        "app_id": 860510
+    },
+    {
+        "name": "Resident Evil Re:Verse",
+        "playtime_hours": 0.0,
+        "app_id": 1236300
+    },
+    {
+        "name": "Company of Heroes 2",
+        "playtime_hours": 0.0,
+        "app_id": 231430
+    },
+    {
+        "name": "MultiVersus",
+        "playtime_hours": 0.0,
+        "app_id": 1818750
+    },
+    {
+        "name": "Black Desert",
+        "playtime_hours": 0.0,
+        "app_id": 582660
+    },
+    {
+        "name": "Cult of the Lamb",
+        "playtime_hours": 0.0,
+        "app_id": 1313140
+    },
+    {
+        "name": "The Classrooms",
+        "playtime_hours": 0.0,
+        "app_id": 2099110
+    },
+    {
+        "name": "The Murder of Sonic the Hedgehog",
+        "playtime_hours": 0.0,
+        "app_id": 2324650
+    },
+    {
+        "name": "Overwatch\u00ae 2",
+        "playtime_hours": 0.0,
+        "app_id": 2357570
+    },
+    {
+        "name": "DON'T SCREAM",
+        "playtime_hours": 0.0,
+        "app_id": 2497900
+    }
+]

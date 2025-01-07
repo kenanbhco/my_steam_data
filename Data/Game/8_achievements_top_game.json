@@ -1,0 +1,154 @@
+{
+    "Shooter": {
+        "total_achievements": 315,
+        "top_game": {
+            "name": "Titanfall\u00ae 2",
+            "achievements": 33,
+            "playtime": 5.35
+        }
+    },
+    "Platform": {
+        "total_achievements": 65,
+        "top_game": {
+            "name": "Anomaly Agent",
+            "achievements": 20,
+            "playtime": 5.916666666666667
+        }
+    },
+    "Puzzle": {
+        "total_achievements": 129,
+        "top_game": {
+            "name": "Zup!",
+            "achievements": 66,
+            "playtime": 5.066666666666666
+        }
+    },
+    "Adventure": {
+        "total_achievements": 547,
+        "top_game": {
+            "name": "Alien: Isolation",
+            "achievements": 40,
+            "playtime": 22.05
+        }
+    },
+    "Simulator": {
+        "total_achievements": 187,
+        "top_game": {
+            "name": "Sid Meier's Civilization V",
+            "achievements": 34,
+            "playtime": 171.0
+        }
+    },
+    "Indie": {
+        "total_achievements": 309,
+        "top_game": {
+            "name": "Tower Unite",
+            "achievements": 32,
+            "playtime": 11.466666666666667
+        }
+    },
+    "Strategy": {
+        "total_achievements": 121,
+        "top_game": {
+            "name": "Sid Meier's Civilization V",
+            "achievements": 34,
+            "playtime": 171.0
+        }
+    },
+    "Turn-based strategy (TBS)": {
+        "total_achievements": 42,
+        "top_game": {
+            "name": "Sid Meier's Civilization V",
+            "achievements": 34,
+            "playtime": 171.0
+        }
+    },
+    "Role-playing (RPG)": {
+        "total_achievements": 99,
+        "top_game": {
+            "name": "God of War",
+            "achievements": 29,
+            "playtime": 39.083333333333336
+        }
+    },
+    "Real Time Strategy (RTS)": {
+        "total_achievements": 15,
+        "top_game": {
+            "name": "Age of Empires II (2013)",
+            "achievements": 9,
+            "playtime": 4.233333333333333
+        }
+    },
+    "Point-and-click": {
+        "total_achievements": 11,
+        "top_game": {
+            "name": "Deponia",
+            "achievements": 11,
+            "playtime": 8.666666666666666
+        }
+    },
+    "Hack and slash/Beat 'em up": {
+        "total_achievements": 38,
+        "top_game": {
+            "name": "God of War",
+            "achievements": 29,
+            "playtime": 39.083333333333336
+        }
+    },
+    "Tactical": {
+        "total_achievements": 17,
+        "top_game": {
+            "name": "Dome Keeper",
+            "achievements": 8,
+            "playtime": 3.6333333333333333
+        }
+    },
+    "Fighting": {
+        "total_achievements": 62,
+        "top_game": {
+            "name": "Stick Fight: The Game",
+            "achievements": 25,
+            "playtime": 17.633333333333333
+        }
+    },
+    "Arcade": {
+        "total_achievements": 93,
+        "top_game": {
+            "name": "Tower Unite",
+            "achievements": 32,
+            "playtime": 11.466666666666667
+        }
+    },
+    "Racing": {
+        "total_achievements": 34,
+        "top_game": {
+            "name": "Tower Unite",
+            "achievements": 32,
+            "playtime": 11.466666666666667
+        }
+    },
+    "Sport": {
+        "total_achievements": 38,
+        "top_game": {
+            "name": "Tower Unite",
+            "achievements": 32,
+            "playtime": 11.466666666666667
+        }
+    },
+    "Card & Board Game": {
+        "total_achievements": 55,
+        "top_game": {
+            "name": "Tower Unite",
+            "achievements": 32,
+            "playtime": 11.466666666666667
+        }
+    },
+    "Visual Novel": {
+        "total_achievements": 8,
+        "top_game": {
+            "name": "KinitoPET",
+            "achievements": 8,
+            "playtime": 2.433333333333333
+        }
+    }
+}

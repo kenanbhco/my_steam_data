@@ -1,0 +1,78 @@
+[
+    [
+        "Adventure",
+        65
+    ],
+    [
+        "Indie",
+        56
+    ],
+    [
+        "Shooter",
+        32
+    ],
+    [
+        "Simulator",
+        28
+    ],
+    [
+        "Puzzle",
+        20
+    ],
+    [
+        "Strategy",
+        19
+    ],
+    [
+        "Role-playing (RPG)",
+        19
+    ],
+    [
+        "Platform",
+        17
+    ],
+    [
+        "Arcade",
+        10
+    ],
+    [
+        "Tactical",
+        7
+    ],
+    [
+        "Real Time Strategy (RTS)",
+        6
+    ],
+    [
+        "Hack and slash/Beat 'em up",
+        5
+    ],
+    [
+        "Fighting",
+        5
+    ],
+    [
+        "Sport",
+        4
+    ],
+    [
+        "Card & Board Game",
+        3
+    ],
+    [
+        "Turn-based strategy (TBS)",
+        2
+    ],
+    [
+        "Racing",
+        2
+    ],
+    [
+        "Point-and-click",
+        1
+    ],
+    [
+        "Visual Novel",
+        1
+    ]
+]
