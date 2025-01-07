@@ -3,8 +3,8 @@ import json
 import time
 
 # Replace with your Twitch Client ID and Secret
-CLIENT_ID = "c4hrl8ai6lfswqr17rnfxjrz3nwwj6"
-CLIENT_SECRET = "hh89t7vxe48jf0trgs9cteimukvl0q"
+CLIENT_ID = "YOUR_ID"
+CLIENT_SECRET = "YOUR_SECRET"
 
 # IGDB API URLs
 AUTH_URL = "https://id.twitch.tv/oauth2/token"
