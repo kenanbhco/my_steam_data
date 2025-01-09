@@ -19,6 +19,8 @@
 ## Overview
 This project analyzes my Steam gaming profile to address specific questions about unplayed games and purchase trends. The goal is to determine whether there are unplayed games in my library that I might enjoy and to identify trends in my game purchases during Steam sale periods. By leveraging data from my Steam account, I aim to draw actionable insights that could optimize my gaming experience and purchasing behavior.
 
+You can find my presentation here: https://drive.google.com/file/d/1c0nrqGDUcCGOjDnhlddMEJqXRifxY1VW/view?usp=sharing
+
 ---
 
 ## Motivation
